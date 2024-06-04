@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ijhaba
-- 👀 I’m interested in programing electronics
+- 👀 I’m interested in programing electronics and artificial inteligence.
 - 🌱 I’m currently learning with arduinos
 - 📫 How to reach me - message me at GitHub
 - 😄 Pronouns: He/Him
