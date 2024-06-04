@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Ijhaba
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in programing electronics
+- 🌱 I’m currently learning with arduinos
 - 📫 How to reach me - message me at GitHub
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Sharks have been on Earth longer than wood.
 
 <!---
 Ijhaba/Ijhaba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
